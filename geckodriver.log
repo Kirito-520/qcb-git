@@ -1,0 +1,947 @@
+1668670846467	geckodriver	INFO	Listening on 127.0.0.1:62482
+1668670849555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62483" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileaiFWVJ"
+1668670849822	Marionette	INFO	Marionette enabled
+1668670849830	Marionette	INFO	Listening on port 62488
+WebDriver BiDi listening on ws://127.0.0.1:62483
+1668670850151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileaiFWVJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62483/devtools/browser/b33456db-eb0b-4596-9c37-3f742868625f
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668671840791	Marionette	INFO	Stopped listening on port 62488
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668671858051	geckodriver	INFO	Listening on 127.0.0.1:63140
+1668671861145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63141" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileD64by6"
+1668671861416	Marionette	INFO	Marionette enabled
+1668671861419	Marionette	INFO	Listening on port 63146
+WebDriver BiDi listening on ws://127.0.0.1:63141
+1668671861725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileD64by6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63141/devtools/browser/9f05854f-1e81-49d3-ac6d-e7e0ce7793cf
+JavaScript warning: https://s1.hdslb.com/bfs/seed/log/report/log-reporter.js, line 1: WebGL context was lost.
+JavaScript warning: https://s1.hdslb.com/bfs/seed/log/report/log-reporter.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s1.hdslb.com/bfs/seed/log/report/log-reporter.js, line 1: WebGL context was lost.
+JavaScript warning: https://s1.hdslb.com/bfs/seed/log/report/log-reporter.js, line 1: WebGL context was lost.
+JavaScript warning: https://s1.hdslb.com/bfs/seed/log/report/log-reporter.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s1.hdslb.com/bfs/seed/log/report/log-reporter.js, line 1: WebGL context was lost.
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/npd.common-helper.31bd1344.js, line 17: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/npd.common-helper.31bd1344.js, line 17: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668672076721	Marionette	INFO	Stopped listening on port 63146
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63456" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileFTmSGn"
+1668672073722	Marionette	INFO	Marionette enabled
+1668672073726	Marionette	INFO	Listening on port 63485
+WebDriver BiDi listening on ws://127.0.0.1:63456
+1668672074190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileFTmSGn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63456/devtools/browser/b857a5e4-64b9-45e3-84f5-b8946ea97cca
+1668672162665	Marionette	INFO	Stopped listening on port 63485
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60896" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileRzzCC1"
+1668672162236	Marionette	INFO	Marionette enabled
+1668672162239	Marionette	INFO	Listening on port 60901
+WebDriver BiDi listening on ws://127.0.0.1:60896
+1668672162909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileRzzCC1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60896/devtools/browser/ce7d655b-9203-49d8-97a1-3f41b6ebb8d8
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668672227101	Marionette	INFO	Stopped listening on port 60901
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668672236312	geckodriver	INFO	Listening on 127.0.0.1:61104
+1668672239402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61105" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileDPmjOW"
+1668672239658	Marionette	INFO	Marionette enabled
+1668672239662	Marionette	INFO	Listening on port 61110
+WebDriver BiDi listening on ws://127.0.0.1:61105
+1668672239956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileDPmjOW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61105/devtools/browser/53977989-5e41-44e8-b92a-2675acd9a069
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668672538217	Marionette	INFO	Stopped listening on port 61110
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668672683878	geckodriver	INFO	Listening on 127.0.0.1:54459
+1668672686971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54460" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileyyAj8P"
+1668672687246	Marionette	INFO	Marionette enabled
+1668672687250	Marionette	INFO	Listening on port 54465
+WebDriver BiDi listening on ws://127.0.0.1:54460
+1668672687549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileyyAj8P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54460/devtools/browser/69096f47-bb54-429c-bf4f-cf7cea203da3
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668672739342	Marionette	INFO	Stopped listening on port 54465
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668672741577	geckodriver	INFO	Listening on 127.0.0.1:54744
+1668672744654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54745" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileDgp67I"
+1668672744923	Marionette	INFO	Marionette enabled
+1668672744926	Marionette	INFO	Listening on port 54750
+WebDriver BiDi listening on ws://127.0.0.1:54745
+1668672745230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileDgp67I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54745/devtools/browser/e5c17a4c-c0bf-4bcf-8fcf-2b0ac0f65915
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668672763299	Marionette	INFO	Stopped listening on port 54750
+1668672809904	geckodriver	INFO	Listening on 127.0.0.1:55042
+1668672813036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55043" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile3L9xQa"
+1668672813293	Marionette	INFO	Marionette enabled
+1668672813296	Marionette	INFO	Listening on port 55048
+WebDriver BiDi listening on ws://127.0.0.1:55043
+1668672813604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile3L9xQa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55043/devtools/browser/a6ee2b90-d51d-4747-b767-2d2cc37b2d49
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668672829365	Marionette	INFO	Stopped listening on port 55048
+!!! error running onStopped callback: TypeError: callback is not a function
+1668672849593	geckodriver	INFO	Listening on 127.0.0.1:55345
+1668672852728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55346" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileeMioMW"
+1668672852974	Marionette	INFO	Marionette enabled
+1668672852977	Marionette	INFO	Listening on port 55351
+WebDriver BiDi listening on ws://127.0.0.1:55346
+1668672853286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileeMioMW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55346/devtools/browser/db217061-11d9-425d-9a6b-1b593145ca65
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: https://s1.hdslb.com/bfs/seed/log/report/log-reporter.js, line 1: WebGL context was lost.
+JavaScript warning: https://s1.hdslb.com/bfs/seed/log/report/log-reporter.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s1.hdslb.com/bfs/seed/log/report/log-reporter.js, line 1: WebGL context was lost.
+JavaScript warning: https://s1.hdslb.com/bfs/seed/log/report/log-reporter.js, line 1: WebGL context was lost.
+JavaScript warning: https://s1.hdslb.com/bfs/seed/log/report/log-reporter.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s1.hdslb.com/bfs/seed/log/report/log-reporter.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://search.bilibili.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668672876516	Marionette	INFO	Stopped listening on port 55351
+1668673113966	geckodriver	INFO	Listening on 127.0.0.1:51171
+1668673117025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51172" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileNxwesr"
+1668673117426	Marionette	INFO	Marionette enabled
+1668673117430	Marionette	INFO	Listening on port 51177
+WebDriver BiDi listening on ws://127.0.0.1:51172
+1668673117575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileNxwesr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51172/devtools/browser/501fb5bb-a670-41f0-8cb8-91e5ace558dc
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 50: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1668673130445	Marionette	INFO	Stopped listening on port 51177
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668673133286	geckodriver	INFO	Listening on 127.0.0.1:51226
+1668673137064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51227" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileloVted"
+1668673137312	Marionette	INFO	Marionette enabled
+1668673137315	Marionette	INFO	Listening on port 51233
+WebDriver BiDi listening on ws://127.0.0.1:51227
+1668673137613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileloVted\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51227/devtools/browser/3a4a0d0f-c602-4bb5-9613-38c873108643
+1668673146262	geckodriver	INFO	Listening on 127.0.0.1:51273
+1668673149355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51274" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilesyvxDq"
+1668673149607	Marionette	INFO	Marionette enabled
+1668673149610	Marionette	INFO	Listening on port 51279
+WebDriver BiDi listening on ws://127.0.0.1:51274
+1668673149910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilesyvxDq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51274/devtools/browser/19e25345-811b-4b36-98f3-98f85ea1515d
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668673210914	Marionette	INFO	Stopped listening on port 51271668673212034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63847" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileNJr0WQ"
+1668673212312	Marionette	INFO	Marionette enabled
+1668673212316	Marionette	INFO	Listening on port 63865
+WebDriver BiDi listening on ws://127.0.0.1:63847
+1668673212640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileNJr0WQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63847/devtools/browser/1c45c4b8-e04a-4d32-afea-1b7b23c5aea4
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668673331347	Marionette	INFO	Stopped listening on port 63865
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668673334763	geckodriver	INFO	Listening on 127.0.0.1:64292
+1668673337880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64293" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofiley6xZsh"
+1668673338658	Marionette	INFO	Marionette enabled
+1668673338662	Marionette	INFO	Listening on port 64299
+WebDriver BiDi listening on ws://127.0.0.1:64293
+1668673339028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofiley6xZsh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64293/devtools/browser/fe9f5b6b-99c2-44d3-be1c-0c21d955eecf
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668673912227	Marionette	INFO	Stopped listening on port 64299
+e-debugging-port" "59018" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileDf0vu8"
+1668673488593	Marionette	INFO	Marionette enabled
+1668673488597	Marionette	INFO	Listening on port 59023
+WebDriver BiDi listening on ws://127.0.0.1:59018
+1668673489063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileDf0vu8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59018/devtools/browser/926d9387-4d32-4e74-bdf3-c83889aae8f0
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668673814120	Marionette	INFO	Stopped listening on port 59023
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65300" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile1OB1es"
+1668673813776	Marionette	INFO	Marionette enabled
+1668673813788	Marionette	INFO	Listening on port 65307
+WebDriver BiDi listening on ws://127.0.0.1:65300
+1668673814239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile1OB1es\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65300/devtools/browser/6318647f-12bd-4338-8863-5dff3b8539ea
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+console.error: "Unable to find target with innerWindowId:4294967299"
+console.error: "Unable to find target with innerWindowId:4294967299"
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.error: "Unable to find target with innerWindowId:4294967300"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967300"
+console.error: "Unable to find target with innerWindowId:4294967302"
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668673909033	Marionette	INFO	Stopped listening on port 65307
+1668673919886	geckodriver	INFO	Listening on 127.0.0.1:57649
+1668673923255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57650" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile9I7eZd"
+1668673923797	Marionette	INFO	Marionette enabled
+1668673923800	Marionette	INFO	Listening on port 57655
+WebDriver BiDi listening on ws://127.0.0.1:57650
+1668673924312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile9I7eZd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57650/devtools/browser/268b82ac-3f77-4bfe-96ad-885828ef0a96
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668673951504	Marionette	INFO	Stopped listening on port 57655
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668739906710	geckodriver	INFO	Listening on 127.0.0.1:61262
+1668739909876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61263" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilerL4wSw"
+1668739910725	Marionette	INFO	Marionette enabled
+1668739910731	Marionette	INFO	Listening on port 61268
+WebDriver BiDi listening on ws://127.0.0.1:61263
+1668739911104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilerL4wSw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61263/devtools/browser/86d96d24-a106-4402-8da3-3bd6c3fae1e8
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668739947018	Marionette	INFO	Stopped listening on port 61261668739947923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61323" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile7DrDfI"
+1668739948876	Marionette	INFO	Marionette enabled
+1668739948879	Marionette	INFO	Listening on port 61330
+WebDriver BiDi listening on ws://127.0.0.1:61323
+1668739949015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile7DrDfI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61323/devtools/browser/34eaa7d8-fb00-4897-9cd4-e2ecec55850f
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.error: "Unable to find target with innerWindowId:4294967303"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:4294967304"
+console.error: "Unable to find target with innerWindowId:4294967306"
+console.error: "Unable to find target with innerWindowId:4294967306"
+console.error: "Unable to find target with innerWindowId:4294967304"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668740707262	Marionette	INFO	Stopped listening on port 61330
+reachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668740244518	Marionette	INFO	Stopped listening on port 61634
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668740515448	geckodriver	INFO	Listening on 127.0.0.1:61756
+1668740518882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61757" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile34ExsT"
+1668740519156	Marionette	INFO	Marionette enabled
+1668740519160	Marionette	INFO	Listening on port 61762
+WebDriver BiDi listening on ws://127.0.0.1:61757
+1668740519455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile34ExsT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61757/devtools/browser/bbd86096-95ee-4038-984b-eeaf3c69aa17
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668740702499	Marionette	INFO	Stopped listening on port 61762
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61849" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileZGpQYF"
+1668740700495	Marionette	INFO	Marionette enabled
+1668740700509	Marionette	INFO	Listening on port 61854
+WebDriver BiDi listening on ws://127.0.0.1:61849
+1668740701086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileZGpQYF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61849/devtools/browser/d10e44f7-e277-45ed-a95b-042d12ce9655
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668740712914	Marionette	INFO	Stopped listening on port 61854
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668741086721	geckodriver	INFO	Listening on 127.0.0.1:61955
+1668741090126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61956" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile2CmGiy"
+1668741090398	Marionette	INFO	Marionette enabled
+1668741090401	Marionette	INFO	Listening on port 61961
+WebDriver BiDi listening on ws://127.0.0.1:61956
+1668741090699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile2CmGiy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61956/devtools/browser/bc8e6453-e42c-445a-b643-fe89f79327aa
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668741344884	Marionette	INFO	Stopped listening on port 61961
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62182" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile4RLMDr"
+1668741299594	Marionette	INFO	Marionette enabled
+1668741299599	Marionette	INFO	Listening on port 62187
+WebDriver BiDi listening on ws://127.0.0.1:62182
+1668741299930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile4RLMDr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62182/devtools/browser/e3cac33b-37e8-4927-9cda-55915216def4
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668741346569	Marionette	INFO	Stopped listening on port 62187
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 29052, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+741334770	Marionette	INFO	Marionette enabled
+1668741334774	Marionette	INFO	Listening on port 62281
+WebDriver BiDi listening on ws://127.0.0.1:62266
+1668741335147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile67XFEa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62266/devtools/browser/f72460b2-1365-4cf9-9f8b-0321331c0162
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668741831361	Marionette	INFO	Stopped listening on port 62281
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62420" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile2qltGc"
+1668741828076	Marionette	INFO	Marionette enabled
+1668741828080	Marionette	INFO	Listening on port 62425
+WebDriver BiDi listening on ws://127.0.0.1:62420
+1668741828455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile2qltGc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62420/devtools/browser/3eb47cf2-96b9-4bb6-a375-09629c6da579
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668741872451	Marionette	INFO	Stopped listening on port 62425
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 29056, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+741871897	Marionette	INFO	Marionette enabled
+1668741871901	Marionette	INFO	Listening on port 62488
+WebDriver BiDi listening on ws://127.0.0.1:62483
+1668741872187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileqQse4i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62483/devtools/browser/cc5fa224-e3ce-47ce-b228-ef3341e827dd
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668742048660	Marionette	INFO	Stopped listening on port 62481668742050551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62568" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilem1h0Q5"
+1668742050829	Marionette	INFO	Marionette enabled
+1668742050833	Marionette	INFO	Listening on port 62574
+WebDriver BiDi listening on ws://127.0.0.1:62568
+1668742051125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilem1h0Q5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62568/devtools/browser/40b123fb-c87f-47f0-834e-760955d9f419
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668742299899	Marionette	INFO	Stopped listening on port 62571668742300113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62800" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilehfpiRG"
+1668742300393	Marionette	INFO	Marionette enabled
+1668742300396	Marionette	INFO	Listening on port 62806
+WebDriver BiDi listening on ws://127.0.0.1:62800
+1668742300703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilehfpiRG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62800/devtools/browser/e29835b7-b878-4b85-a6fd-69ab41d33f0c
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668742331889	Marionette	INFO	Stopped listening on port 62806
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668754323900	geckodriver	INFO	Listening on 127.0.0.1:64629
+1668754327072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64630" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileeBiMjJ"
+1668754328050	Marionette	INFO	Marionette enabled
+1668754328060	Marionette	INFO	Listening on port 64635
+WebDriver BiDi listening on ws://127.0.0.1:64630
+1668754328336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileeBiMjJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64630/devtools/browser/ec71500c-25ac-415d-8f1d-d0c2428cc993
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668754434610	Marionette	INFO	Stopped listening on port 64635
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668754468448	geckodriver	INFO	Listening on 127.0.0.1:64746
+1668754471521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64747" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilegim4L3"
+1668754472288	Marionette	INFO	Marionette enabled
+1668754472291	Marionette	INFO	Listening on port 64752
+WebDriver BiDi listening on ws://127.0.0.1:64747
+1668754472679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilegim4L3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64747/devtools/browser/b01da517-8161-4514-b31f-7b22e7a2cf1c
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668754551295	Marionette	INFO	Stopped listening on port 64752
+1668754552991	geckodriver	INFO	Listening on 127.0.0.1:64857
+1668754556286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64858" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilecN6AZ9"
+1668754556655	Marionette	INFO	Marionette enabled
+1668754556658	Marionette	INFO	Listening on port 64863
+WebDriver BiDi listening on ws://127.0.0.1:64858
+1668754556987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilecN6AZ9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64858/devtools/browser/fac925b9-d097-4e02-afbd-3881a225defc
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668754622724	Marionette	INFO	Stopped listening on port 64863
+1668754658274	geckodriver	INFO	Listening on 127.0.0.1:64960
+1668754661342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64961" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilebe2hAm"
+1668754661677	Marionette	INFO	Marionette enabled
+1668754661680	Marionette	INFO	Listening on port 64966
+WebDriver BiDi listening on ws://127.0.0.1:64961
+1668754662017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilebe2hAm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64961/devtools/browser/67166657-1ac2-4cd3-9809-426252341e10
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668754669641	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85139
+ajax@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:82575
+initSystemData_depot@http://erp.lemfix.com/js/pages/materials/in_out.js:177:5
+@http://erp.lemfix.com/js/pages/materials/in_out.js:35:3
+k@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:16961
+fireWith@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:17719
+ready@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:12434
+D@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:9839
+1668754684047	Marionette	INFO	Stopped listening on port 64966
+[Parent 30476, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668754768171	geckodriver	INFO	Listening on 127.0.0.1:65049
+1668754771254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65050" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilemmh8yM"
+1668754771528	Marionette	INFO	Marionette enabled
+1668754771532	Marionette	INFO	Listening on port 65056
+WebDriver BiDi listening on ws://127.0.0.1:65050
+1668754771931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilemmh8yM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65050/devtools/browser/20e35c8b-d9a9-4349-983a-d6ee428152b7
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668754809993	Marionette	INFO	Stopped listening on port 65056
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668754835974	geckodriver	INFO	Listening on 127.0.0.1:65128
+1668754839137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65129" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilehekxlh"
+1668754839544	Marionette	INFO	Marionette enabled
+1668754839550	Marionette	INFO	Listening on port 65134
+WebDriver BiDi listening on ws://127.0.0.1:65129
+1668754839716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilehekxlh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65129/devtools/browser/497ba347-cd8c-4f7f-87be-fbbc91e40c20
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668754886616	Marionette	INFO	Stopped listening on port 65134
+1668754889495	geckodriver	INFO	Listening on 127.0.0.1:65203
+1668754892574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65204" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile6GCbR6"
+1668754893268	Marionette	INFO	Marionette enabled
+1668754893271	Marionette	INFO	Listening on port 65209
+WebDriver BiDi listening on ws://127.0.0.1:65204
+1668754893730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile6GCbR6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65204/devtools/browser/8d2ec641-47c9-4786-931a-eab6b18470cb
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668754899321	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85139
+ajax@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:82575
+initSystemData_depot@http://erp.lemfix.com/js/pages/materials/in_out.js:177:5
+@http://erp.lemfix.com/js/pages/materials/in_out.js:35:3
+k@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:16961
+fireWith@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:17719
+ready@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:12434
+D@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:9839
+1668754956276	Marionette	INFO	Stopped listening on port 65201668754956730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65268" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilenNUaEp"
+1668754957093	Marionette	INFO	Marionette enabled
+1668754957096	Marionette	INFO	Listening on port 65280
+WebDriver BiDi listening on ws://127.0.0.1:65268
+1668754957434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilenNUaEp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65268/devtools/browser/648993a8-8c57-4376-9dd5-52d547bb445d
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668754962630	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85139
+ajax@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:82575
+initSystemData_depot@http://erp.lemfix.com/js/pages/materials/in_out.js:177:5
+@http://erp.lemfix.com/js/pages/materials/in_out.js:35:3
+k@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:16961
+fireWith@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:17719
+ready@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:12434
+D@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:9839
+1668754983571	Marionette	INFO	Stopped listening on port 65280
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668755034482	geckodriver	INFO	Listening on 127.0.0.1:65364
+1668755037568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65365" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileeGx3J8"
+1668755037850	Marionette	INFO	Marionette enabled
+1668755037853	Marionette	INFO	Listening on port 65370
+WebDriver BiDi listening on ws://127.0.0.1:65365
+1668755038151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileeGx3J8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65365/devtools/browser/47a1c0fa-f1f6-4f9c-b90b-1e0ad3f16b3b
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668755044217	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85139
+ajax@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:82575
+initSystemData_depot@http://erp.lemfix.com/js/pages/materials/in_out.js:177:5
+@http://erp.lemfix.com/js/pages/materials/in_out.js:35:3
+k@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:16961
+fireWith@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:17719
+ready@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:12434
+D@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:9839
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668755206056	Marionette	INFO	Stopped listening on port 65370
+earchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileNypFgK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65454/devtools/browser/d53f945d-1288-4308-8ed1-df6e19189387
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668755130691	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85139
+ajax@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:82575
+initSystemData_depot@http://erp.lemfix.com/js/pages/materials/in_out.js:177:5
+@http://erp.lemfix.com/js/pages/materials/in_out.js:35:3
+k@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:16961
+fireWith@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:17719
+ready@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:12434
+D@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:9839
+1668755163383	Marionette	INFO	Stopped listening on port 65460
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668755165139	geckodriver	INFO	Listening on 127.0.0.1:65532
+1668755168696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65533" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofiled2oNlK"
+1668755169414	Marionette	INFO	Marionette enabled
+1668755169418	Marionette	INFO	Listening on port 49155
+WebDriver BiDi listening on ws://127.0.0.1:65533
+1668755169867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofiled2oNlK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65533/devtools/browser/2b6b43a4-d302-4ce7-8520-312530e9b81e
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668755175383	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85139
+ajax@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:82575
+initSystemData_depot@http://erp.lemfix.com/js/pages/materials/in_out.js:177:5
+@http://erp.lemfix.com/js/pages/materials/in_out.js:35:3
+k@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:16961
+fireWith@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:17719
+ready@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:12434
+D@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:9839
+1668755198759	Marionette	INFO	Stopped listening on port 49155
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668755200802	geckodriver	INFO	Listening on 127.0.0.1:49212
+1668755203891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49213" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileeqftsG"
+1668755204220	Marionette	INFO	Marionette enabled
+1668755204224	Marionette	INFO	Listening on port 49219
+WebDriver BiDi listening on ws://127.0.0.1:49213
+1668755204516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileeqftsG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49213/devtools/browser/e96751de-b249-4484-b55b-4279b8163499
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668755211466	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85139
+ajax@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:82575
+initSystemData_depot@http://erp.lemfix.com/js/pages/materials/in_out.js:177:5
+@http://erp.lemfix.com/js/pages/materials/in_out.js:35:3
+k@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:16961
+fireWith@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:17719
+ready@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:12434
+D@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:9839
+1668755225450	Marionette	INFO	Stopped listening on port 49219
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668755351854	geckodriver	INFO	Listening on 127.0.0.1:49311
+1668755354915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49312" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile6ompii"
+1668755355184	Marionette	INFO	Marionette enabled
+1668755355187	Marionette	INFO	Listening on port 49318
+WebDriver BiDi listening on ws://127.0.0.1:49312
+1668755355486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile6ompii\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49312/devtools/browser/71313193-5de3-42a9-b275-c6e3be06a2b0
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668755360617	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85139
+ajax@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:82575
+initSystemData_UB@http://erp.lemfix.com/js/pages/materials/in_out.js:149:5
+@http://erp.lemfix.com/js/pages/materials/in_out.js:34:3
+k@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:16961
+fireWith@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:17719
+ready@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:12434
+D@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:9839
+1668755393968	Marionette	INFO	Stopped listening on port 49318
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668755395850	geckodriver	INFO	Listening on 127.0.0.1:49374
+1668755398958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49375" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile1bftZN"
+1668755399247	Marionette	INFO	Marionette enabled
+1668755399251	Marionette	INFO	Listening on port 49380
+WebDriver BiDi listening on ws://127.0.0.1:49375
+1668755399542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile1bftZN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49375/devtools/browser/6552c92e-0048-4dec-943b-546f306e817c
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668755405215	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85139
+ajax@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:82575
+initSystemData_UB@http://erp.lemfix.com/js/pages/materials/in_out.js:149:5
+@http://erp.lemfix.com/js/pages/materials/in_out.js:34:3
+k@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:16961
+fireWith@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:17719
+ready@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:12434
+D@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:9839
+1668755432236	Marionette	INFO	Stopped listening on port 49380
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668755434154	geckodriver	INFO	Listening on 127.0.0.1:49437
+1668755437267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49438" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileEmgMjn"
+1668755437535	Marionette	INFO	Marionette enabled
+1668755437539	Marionette	INFO	Listening on port 49443
+WebDriver BiDi listening on ws://127.0.0.1:49438
+1668755437828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileEmgMjn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49438/devtools/browser/46b95ea9-9121-4ce4-94a5-22feb4960bcd
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668755454234	Marionette	INFO	Stopped listening on port 49443
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668755608356	geckodriver	INFO	Listening on 127.0.0.1:49763
+1668755611437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49764" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileiexRob"
+1668755611703	Marionette	INFO	Marionette enabled
+1668755611706	Marionette	INFO	Listening on port 49769
+WebDriver BiDi listening on ws://127.0.0.1:49764
+1668755612011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileiexRob\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49764/devtools/browser/8322762e-fc6c-4d67-b03b-64901ac8b20b
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668755630450	Marionette	INFO	Stopped listening on port 49769
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668755632114	geckodriver	INFO	Listening on 127.0.0.1:49828
+1668755635227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49829" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileJJoCfA"
+1668755636241	Marionette	INFO	Marionette enabled
+1668755636245	Marionette	INFO	Listening on port 49834
+WebDriver BiDi listening on ws://127.0.0.1:49829
+1668755636382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileJJoCfA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49829/devtools/browser/ffb205c4-c441-44aa-9624-fc8c19c19fe9
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668755698270	Marionette	INFO	Stopped listening on port 49834
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668755700207	geckodriver	INFO	Listening on 127.0.0.1:49926
+1668755703295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49927" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile9rKl1z"
+1668755703583	Marionette	INFO	Marionette enabled
+1668755703586	Marionette	INFO	Listening on port 49933
+WebDriver BiDi listening on ws://127.0.0.1:49927
+1668755703894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile9rKl1z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49927/devtools/browser/41d3e139-ae1b-4f30-950a-c0f2a11e9918
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668755722089	Marionette	INFO	Stopped listening on port 49933
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668755910197	geckodriver	INFO	Listening on 127.0.0.1:50286
+1668755913283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50287" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile2sfjpq"
+1668755913645	Marionette	INFO	Marionette enabled
+1668755913651	Marionette	INFO	Listening on port 50292
+WebDriver BiDi listening on ws://127.0.0.1:50287
+1668755913870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile2sfjpq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50287/devtools/browser/235a7204-4361-482b-a7b0-6624cc22037c
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668755999157	Marionette	INFO	Stopped listening on port 50292
+!!! error running onStopped callback: TypeError: callback is not a function
+r("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileFjOQIQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50379/devtools/browser/aeea7e15-c303-449a-bb0d-16fd40224552
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668755993938	Marionette	INFO	Stopped listening on port 50384
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668756122415	geckodriver	INFO	Listening on 127.0.0.1:50550
+1668756125516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50551" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile1mbc7T"
+1668756126254	Marionette	INFO	Marionette enabled
+1668756126258	Marionette	INFO	Listening on port 50558
+WebDriver BiDi listening on ws://127.0.0.1:50551
+1668756126565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofile1mbc7T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50551/devtools/browser/4e7ccb34-80db-49bc-af2b-fb372213a30e
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668756146124	Marionette	INFO	Stopped listening on port 50558
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1668756236391	geckodriver	INFO	Listening on 127.0.0.1:50698
+1668756240051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50699" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileACsDeH"
+1668756240315	Marionette	INFO	Marionette enabled
+1668756240319	Marionette	INFO	Listening on port 50704
+WebDriver BiDi listening on ws://127.0.0.1:50699
+1668756240611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileACsDeH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50699/devtools/browser/0c63699c-9f70-4dad-be03-fe376c716e55
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668756267692	Marionette	INFO	Stopped listening on port 50704
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668756284287	geckodriver	INFO	Listening on 127.0.0.1:50772
+1668756287839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50773" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileEJexrc"
+1668756288093	Marionette	INFO	Marionette enabled
+1668756288097	Marionette	INFO	Listening on port 50778
+WebDriver BiDi listening on ws://127.0.0.1:50773
+1668756288405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileEJexrc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50773/devtools/browser/4f485c79-8e6f-4ad3-8854-f4cbc05c0eb1
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668756293442	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85139
+ajax@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:82575
+initSystemData_depot@http://erp.lemfix.com/js/pages/materials/in_out.js:177:5
+@http://erp.lemfix.com/js/pages/materials/in_out.js:35:3
+k@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:16961
+fireWith@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:17719
+ready@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:12434
+D@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:9839
+1668756321558	Marionette	INFO	Stopped listening on port 50778
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668756323528	geckodriver	INFO	Listening on 127.0.0.1:50846
+1668756327384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50847" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileedGM6O"
+1668756327639	Marionette	INFO	Marionette enabled
+1668756327643	Marionette	INFO	Listening on port 50852
+WebDriver BiDi listening on ws://127.0.0.1:50847
+1668756327937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileedGM6O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50847/devtools/browser/e496cdcb-beb4-451f-8655-a6f6b0aac7df
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668756332675	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85139
+ajax@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:82575
+initSystemData_depot@http://erp.lemfix.com/js/pages/materials/in_out.js:177:5
+@http://erp.lemfix.com/js/pages/materials/in_out.js:35:3
+k@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:16961
+fireWith@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:17719
+ready@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:12434
+D@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:9839
+1668756465835	Marionette	INFO	Stopped listening on port 50852
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17884, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+onette	INFO	Listening on port 50928
+WebDriver BiDi listening on ws://127.0.0.1:50923
+1668756408161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilevqUvxC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50923/devtools/browser/cea70e78-456d-47ee-9a1f-94a2be484fbf
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668756464314	Marionette	INFO	Stopped listening on port 50928
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668757277465	geckodriver	INFO	Listening on 127.0.0.1:51171
+1668757280520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51172" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilesHyEMw"
+1668757281243	Marionette	INFO	Marionette enabled
+1668757281246	Marionette	INFO	Listening on port 51177
+WebDriver BiDi listening on ws://127.0.0.1:51172
+1668757281556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilesHyEMw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51172/devtools/browser/124ef49e-fd20-4cd3-a42c-cffef5317fea
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668757310553	Marionette	INFO	Stopped listening on port 51177
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668757339586	geckodriver	INFO	Listening on 127.0.0.1:51242
+1668757342658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51243" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileeUmmQ0"
+1668757342914	Marionette	INFO	Marionette enabled
+1668757342917	Marionette	INFO	Listening on port 51253
+WebDriver BiDi listening on ws://127.0.0.1:51243
+1668757343221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofileeUmmQ0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51243/devtools/browser/207c7068-be97-4397-bd4d-5fd22aceefd9
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668757374908	Marionette	INFO	Stopped listening on port 51253
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 11436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668757423960	geckodriver	INFO	Listening on 127.0.0.1:51319
+1668757427055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51320" "-no-remote" "-profile" "C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilegLdBQE"
+1668757427316	Marionette	INFO	Marionette enabled
+1668757427320	Marionette	INFO	Listening on port 51326
+WebDriver BiDi listening on ws://127.0.0.1:51320
+1668757427623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13726\\AppData\\Local\\Temp\\rust_mozprofilegLdBQE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51320/devtools/browser/7c184872-5942-44ca-b259-b8928f828e4e
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://erp.lemfix.com."
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1668757438855	Marionette	INFO	Stopped listening on port 51326
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
